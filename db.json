@@ -1,3 +1,22 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "text": "Uzduotis nr. 1",
+      "day": "Rytoj",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Uzduotis nr.2",
+      "day": "Siandien",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Uzduotis nr.5",
+      "day": "Poryt",
+      "reminder": true,
+      "id": 3
+    }
+  ]
 }
